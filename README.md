@@ -64,8 +64,7 @@ pip install torch torchvision numpy matplotlib tqdm
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cifar10-custom-architecture.git
-cd cifar10-custom-architecture
+git clone https://github.com/shahinmv/cifar10-custom-architecture.git
 ```
 
 ## Model Structure
